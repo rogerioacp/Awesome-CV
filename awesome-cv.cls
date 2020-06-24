@@ -645,10 +645,28 @@
     \end{tabular*}
   \end{center}
 }
+
+% Define an environment for cvhonor
+\newenvironment{cvlangs}{%
+  \vspace{\acvSectionContentTopSkip}
+  \vspace{-2mm}
+  \begin{center}
+    \setlength\tabcolsep{0pt}
+    \setlength{\extrarowheight}{0pt}
+    \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{4.0cm} L{\textwidth - 1.0cm} R{1.5cm}}
+}{%
+    \end{tabular*}
+  \end{center}
+}
 % Define a line of cv information(honor, award or something else)
 % Usage: \cvhonor{<position>}{<title>}{<location>}{<date>}
 \newcommand*{\cvhonor}[4]{%
   \honordatestyle{#4} & \honorpositionstyle{#1}, \honortitlestyle{#2} & \honorlocationstyle{#3} \\
+}
+% Define a line of cv information(honor, award or something else)
+% Usage: \cvhonor{<position>}{<title>}{<location>}{<date>}
+\newcommand*{\cvlang}[2]{%
+  \honorpositionstyle{#1}, \honortitlestyle{#2} & & \\
 }
 
 % Define an environment for cvskill
