@@ -1,0 +1,10 @@
+# Fdb version 3
+["pdflatex"] 1593034626 "writing.tex" "writing.pdf" "writing" 1593034626
+  "/usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf" 1570742662 39452 758acee3f2beaeeedff570c5f5d76d98 ""
+  "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1574348727 4294104 e26d9bd0c5d976c10c679dc423879534 ""
+  "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
+  "writing.aux" 1593034626 8 a94a2480d3289e625eea47cd1b285758 ""
+  "writing.tex" 1593034623 1087 8db2bc93ec7b011d6ac988f86edb0cb7 ""
+  (generated)
+  "writing.log"
+  "writing.pdf"
