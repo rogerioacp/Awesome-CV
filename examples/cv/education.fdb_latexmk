@@ -1,0 +1,10 @@
+# Fdb version 3
+["pdflatex"] 1596570456 "education.tex" "education.pdf" "education" 1596570457
+  "/usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf" 1570742662 39452 758acee3f2beaeeedff570c5f5d76d98 ""
+  "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1574348727 4294104 e26d9bd0c5d976c10c679dc423879534 ""
+  "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
+  "education.aux" 1596570456 8 a94a2480d3289e625eea47cd1b285758 ""
+  "education.tex" 1596570454 1944 015c88a7ab5fdb6db8e031175915ab18 ""
+  (generated)
+  "education.pdf"
+  "education.log"
